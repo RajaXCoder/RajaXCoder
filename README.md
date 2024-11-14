@@ -1,4 +1,4 @@
-👋 Hello, I'm Rajasekar (aka RajaXCoder)
+👋 Hello, I'm Rajasekar (RajaXCoder)
 I'm a passionate MERN Stack Developer with a strong foundation in web development, aiming to build interactive and efficient web applications. Here's a bit more about me:
 
   🔭 I’m currently working on refining my skills and building my portfolio.
